@@ -1,8 +1,11 @@
 # **[MAX7219](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf)** **-** **[LED-MATRIX](https://www.amazon.de/dp/B07BRTCBLQ/ref=psdc_1626220031_t1_B06XJ9ZX17)** **-** **[7Segment](https://www.amazon.de/dp/B07D8ZC7Q3/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B07D8ZC7Q3&pd_rd_w=3xZVd&pf_rd_p=493495a8-6974-49af-bd47-5bd55a278ea6&pd_rd_wg=mQ2AX&pf_rd_r=44JDFMB533WF6GQVD0NZ&pd_rd_r=3ba73304-9fde-11e9-ac76-613fa6a17ff6)**
+
 [![Build Status](https://dev.azure.com/reiter0368/reiter/_apis/build/status/Reiter86.trr?branchName=master)](https://dev.azure.com/reiter0368/reiter/_build/latest?definitionId=3&branchName=master) 
-![GitHub release](https://img.shields.io/github/release/Reiter86/Trr.svg?style=for-the-badge&label=version&colorB=15afd1&colorA=000000)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Reiter86/Trr.svg?style=for-the-badge&colorB=abd115&colorA=000000)
-![GitHub All Releases](https://img.shields.io/github/downloads/Trr/MAX7219/total.svg?style=for-the-badge&colorB=d11589&colorA=000000)
+![GitHub version](https://img.shields.io/github/v/tag/Reiter86/Tesst)
+![GitHub release](https://img.shields.io/github/downloads/Reiter86/Tesst/total)
+![GitHub code size](https://img.shields.io/github/languages/code-size/Reiter86/Tesst)
+![GitHub code](https://img.shields.io/github/languages/top/Reiter86/Tesst)
+![GitHub issues open](https://img.shields.io/github/issues/Reiter86/Tesst)
 
 
 
