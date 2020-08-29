@@ -26,11 +26,12 @@ steps:
   inputs:
     command: 'build'
     
+    
 
 - task: UseDotNet@2
   inputs:
     packageType: 'sdk'
-    version: 2.2
+    version: 2.171.1
 
 
 - task: VSBuild@1
