@@ -25,6 +25,11 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
+    
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
