@@ -20,7 +20,11 @@ steps:
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '$(solution)'
-
+    
+# .NET Desktop
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
@@ -32,7 +36,3 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-# .NET Desktop
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'build'
